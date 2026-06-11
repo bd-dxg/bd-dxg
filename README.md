@@ -4,7 +4,7 @@
 <h3>我使用的技术栈 Stacks I work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,ts,pinia,vitest,nodejs,js,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,ts,pinia,vitest,nodejs,js,unocss,sass" />
   </a>
 </p>
 <h3>我使用的工具 Tools I use</h3>
