@@ -10,6 +10,4 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,pnpm,windows" />
 </p>
 
-[![bd-dxg's github 活跃图](https://github-readme-activity-graph.vercel.app/graph?username=bd-dxg&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
